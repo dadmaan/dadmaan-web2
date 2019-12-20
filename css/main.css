@@ -1,0 +1,154 @@
+body{
+    background: #000000;
+    color: #ffffff;
+}
+
+.navbar-brand:after{
+    background: none;
+}
+
+.ftco-navbar-light.scrolled{
+    background: #000000 !important;
+}
+
+.ftco-navbar-light.scrolled .nav-item > .nav-link {
+    color: #ffffff !important;
+}
+
+.ftco-navbar-light .navbar-toggler,
+.ftco-navbar-light.scrolled .navbar-toggler{
+    color: #ffffff !important;
+}
+
+.hero-wrap .overlay{
+    background: black;
+}
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link span:before{
+    background: #FF3C87;
+}
+
+.mouse-icon:after{
+    background: none;
+    border-bottom: solid 4px;
+    border-right: solid 4px;
+    border-color: #FF3C87;
+}
+
+.mouse-wheel{
+    color: #D9BC00;
+    font-size: 40px;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link,
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5,
+.ftco-about .counter-wrap .text p span.number,
+#navi li a.current{
+    color: #D9BC00;
+}
+
+.ftco-about ul.about-info li span:first-child{
+    color: #FF3C87;
+}
+
+.slider-text .subheading,
+.slider-text h2 span,
+.ftco-about .counter-wrap .text p span{
+    color: #05C7F2;
+}
+
+.btn.btn-primary {
+    background: #D9BC00;
+    border: 1px solid #D9BC00 !important;
+    color: #000000 !important;
+}
+
+.btn.btn-primary:hover {
+    border: 1px solid #D9BC00 !important;
+    background: #D9BC00 !important;
+    color: #FF3C87 !important;
+}
+
+#navi li a.current:after{
+    background: #FF3C87;
+}
+
+#navi li a{
+    color: #0C5363;
+}
+
+#about-section > div > div > div > div > ul > li.d-flex > a > span{
+    color: white;
+    text-decoration: underline;
+}
+.page .heading{
+    color: #05C7F2;
+}
+
+.resume-wrap .icon{
+    background: #FF3C87;
+}
+
+.resume-wrap h2 {
+    color: #D9BC00;
+}
+
+.resume-wrap .date{
+    color: #FF3C87;
+}
+
+#page-1 > div > div.text.pl-3 > h5{
+    color: #0C5363;
+}
+
+#page-3 > div > div > div > h2.h5{
+    color: #05C7F2;
+}
+
+#page-3 > div > div > div > div > div div.h2{
+    color: #D9BC00;
+}
+.border-primary {
+    border-color: #FF3C87 !important;
+}
+.progress-bar{
+    background-color: #FF3C87;
+}
+
+.progress-bar span{
+    color: white;
+}
+
+#page-3 > div > div > div > h3{
+    color: #05C7F2;
+}
+
+.ftco-counter .text strong.number{
+    color: #FF3C87;
+}
+.ftco-counter .text span{
+    color: #05C7F2;
+}
+
+.ftco-hireme .overlay{
+    background: #D9BC00;
+    opacity: .9;
+}
+
+.img, .blog-img, .user-img {
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: bottom;
+}
+
+.ftco-footer{
+    padding: 1em 0;
+}
+
+.ftco-footer a{
+    color: #D9BC00;
+}
+
+.ftco-hireme h2{
+    font-size: 30px;
+    color: black;
+}
