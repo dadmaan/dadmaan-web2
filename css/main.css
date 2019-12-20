@@ -96,6 +96,14 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5,
     color: #FF3C87;
 }
 
+.resume-wrap .position{
+    color: #0C5363;
+}
+
+#resume-section > div > div > div > #page-4 > div > div.text.pl-3 > ul > li > a{
+    color: #FF3C87;
+    text-decoration: underline;
+}
 #page-1 > div > div.text.pl-3 > h5{
     color: #0C5363;
 }
